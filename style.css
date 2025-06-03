@@ -1,0 +1,39 @@
+body{
+    background-color: #22252d;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.titulo{
+    color: darkblue;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.defqon{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #22252d;
+    color: white;
+    border: 1px solid;
+    border-color: #4a505f;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #409244;
+}
+
+.defqon:hover{
+    background-color: #5b6375;
+}
